@@ -2,15 +2,15 @@
   "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
   "namebot": "BOT WA",
   "botNumber": "19293071759@s.whatsapp.net",
-  "owner": ["6282221792667@s.whatsapp.net"],
-  "instagram": "https://instagram.com/prm2.0",
-  "author": "Mamat Saheng",
-  "session": "senku-md",
-  "email": "tioclkp02@gmail.com",
+  "owner": ["6285878836361@s.whatsapp.net"],
+  "instagram": "https://instagram.com/ikykunnnn",
+  "author": "riski",
+  "session": "iky-md",
+  "email": "-",
   "self": false,
-  "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
+  "limit": { "limitUser": 20, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
-    "packname": "Mamat Saheng",
+    "packname": "rizki",
     "author": "bot"
   },
   "ignore": {
